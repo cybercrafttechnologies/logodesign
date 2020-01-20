@@ -1,0 +1,25 @@
+          LOGO DESIGNING
+    
+    -Company Name
+    -Tagline
+    -Industry
+    -Target Audience
+        - Age
+        - Gender
+        - Educational Level
+        - Interest
+        - Regional
+    -Any idea
+    -Logo Type
+        - Emblems
+        - Wordmarks
+        - Monograms
+        - Brand Mark
+        - Abstract
+        - Mascot
+        - Combination Mark
+    -Colour Preference
+    -Font Preference
+    -Timeframe
+    -Budget
+    -Description
